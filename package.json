@@ -1,0 +1,33 @@
+{
+  "name": "ioc-di",
+  "version": "1.0.0",
+  "description": "Inversion of control container and dependency injection implementation",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-BS/IoC-DI.git"
+  },
+  "keywords": [
+    "DI",
+    "IOC",
+    "inversion",
+    "of",
+    "control",
+    "dependency",
+    "injection"
+  ],
+  "author": "Gabriel Brandão da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gabriel-BS/IoC-DI/issues"
+  },
+  "homepage": "https://github.com/Gabriel-BS/IoC-DI#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}
